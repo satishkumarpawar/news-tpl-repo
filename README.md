@@ -1,0 +1,2 @@
+# news-tpl-repo
+template
